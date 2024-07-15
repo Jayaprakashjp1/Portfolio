@@ -87,7 +87,8 @@ function Header() {
           </li>
         </ul>
       </header>
-    </Headroom>
+      </Headroom>
   );
 }
 export default Header;
+
